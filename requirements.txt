@@ -3,3 +3,4 @@ streamlit==1.42.0
 streamlit-authenticator
 PyYAML
 bcrypt
+mojimoji==0.0.13
