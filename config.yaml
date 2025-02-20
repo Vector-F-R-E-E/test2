@@ -1,0 +1,46 @@
+cookie:
+  expiry_days: 1
+  key: some_signature_key
+  name: some_cookie_name
+credentials:
+  usernames:
+    T11945:
+      email: t_mikami@toyota-finance.co.jp
+      name: Mikami
+      password: $2b$12$13x3WLQMRquqPP5z/7dage2E59/UDTZpEPidn6rVAY8qJOMtLM0q6
+    N11322:
+      email: y_katamachi@toyota-finance.co.jp
+      name: Katamachi
+      password: $2b$12$ngmUZRSs0EH.rY1vAOhnmuCYcVzk1BEF29CJhty3BBFFO9dGPzX3C
+    N11705:
+      email: k20_suzuki@toyota-finance.co.jp
+      name: Suzuki
+      password: $2b$12$824jdunbEaU75alyZ83VrOsCgf/6.cdLxswpCRP0U/qbzpgmJtVzq
+    N21983:
+      email: e2_shimizu@toyota-finance.co.jp
+      name: Shimizu
+      password: $2b$12$RlB.wNXPMTc41m/OzQYVzOpRNVdcR7veTqsCUNhkFjatxdXS/w.wm
+    T11033:
+      email: y_moriyasu@toyota-finance.co.jp
+      name: Moriyasu
+      password: $2b$12$k.EiHzsLMa1AS1Nazqy7jeqdZk/Mszxde4GyvrKzCmrAFg0VvBwAC
+    T11099:
+      email: h3_kasai@toyota-finance.co.jp
+      name: Kasai
+      password: $2b$12$R58VJiG8UVC4PGuWCIqq1epcXnPAyBsqfNS8LkKd3JEcnAOGaOdCy
+    T11736:
+      email: h2_kimura@toyota-finance.co.jp
+      name: Kimura
+      password: $2b$12$tSqFhYkkOWU04eM2ReSwX.CRckv..8ihIrO093bfMKTbUt1dDoXKK
+    T11742:
+      email: t_kawamoto@toyota-finance.co.jp
+      name: Kawamoto
+      password: $2b$12$f/nswHLCCpV5U6XiPC/PPugpEXQW91COdKO45ggbZCTil9UFXqBx2
+    T11863:
+      email: t6_shibata@toyota-finance.co.jp
+      name: Shibata
+      password: $2b$12$2pWmxnnAWHUCfcQwPHkOg.2dtSx9qEY8PF0mlAsFrDU2sdtkTTvMC
+    T21438:
+      email: a2_kawano@toyota-finance.co.jp
+      name: Kawano
+      password: $2b$12$WDVgtIDv0rNTQst7Vqton.pkXLaWXnGfX7mO3dQC6nI0fTIxopnn6
